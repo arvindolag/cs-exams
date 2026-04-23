@@ -11,19 +11,19 @@ CS1010 & CSU11012
 
 ## Questions by Year
 
--   [2025 Programming II](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/CS7-CSU-STU/CSU11012-2%20Final%20(2).pdf)
--   [2017 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/X-CS1010-1%20EDITED.pdf)
--   [2016 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1010-1.PDF)
--   [2015 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1010-1.pdf)
--   [2014 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS10101.pdf)
--   [2013 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/XCS10111.pdf)
--   [2012 Programming](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS10111.pdf)
--   [2011 Programming](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS10111.pdf)
--   [2010 Programming](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS10111.pdf)
--   [2009 Programming](https://www.tcd.ie/Local/Exam_Papers/2009/XC/XCS1BA21.pdf)
--   [2008 Programming](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS1BA21.pdf)
--   [2007 Programming](https://www.tcd.ie/Local/Exam_Papers/2007/XC/XCS1BA21.pdf)
--   [2006 Programming](https://www.tcd.ie/Local/Exam_Papers/2006/XC/XCS1BA21.pdf)
+-   [2024/25 Programming II](https://www.tcd.ie/academicregistry/exams/assets/local/Past%20Papers%202024-2025/Semester%202%202024-2025/CS7-CSU-STU/CSU11012-2%20Final%20(2).pdf)
+-   [2016/17 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/X-CS1010-1%20EDITED.pdf)
+-   [2015/16 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1010-1.PDF)
+-   [2014/15 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1010-1.pdf)
+-   [2013/14 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS10101.pdf)
+-   [2012/13 Programming](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/XCS10111.pdf)
+-   [2011/12 Programming](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS10111.pdf)
+-   [2010/11 Programming](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS10111.pdf)
+-   [2009/10 Programming](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS10111.pdf)
+-   [2008/09 Programming](https://www.tcd.ie/Local/Exam_Papers/2009/XC/XCS1BA21.pdf)
+-   [2007/08 Programming](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS1BA21.pdf)
+-   [2006/07 Programming](https://www.tcd.ie/Local/Exam_Papers/2007/XC/XCS1BA21.pdf)
+-   [2005/06 Programming](https://www.tcd.ie/Local/Exam_Papers/2006/XC/XCS1BA21.pdf)
 
 ## Questions by Topic
 
