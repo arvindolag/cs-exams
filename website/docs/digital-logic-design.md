@@ -14,21 +14,21 @@ CSU11027
 
 ## Questions by Year
 
--   [2023](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU11026-1.pdf)
--   [2019](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS1026-1.pdf)
--   [2018](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1026-1.PDF)
--   [2017](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1026-1.PDF)
--   [2016](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1026-1.PDF)
--   [2015](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1026-1.PDF)
--   [2014](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS10261.pdf)
--   [2013](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/XCS10231.pdf)
--   [2012](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS10231.pdf)
--   [2011](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS10231.pdf)
--   [2010](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS10231.pdf)
--   [2009](https://www.tcd.ie/Local/Exam_Papers/2009/XC/XCS1BA41.pdf)
--   [2008](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS1BA41.pdf)
--   [2007](https://www.tcd.ie/Local/Exam_Papers/2007/XC/XCS1BA41.pdf)
--   [2006](https://www.tcd.ie/Local/Exam_Papers/2006/XC/XCS1BA41.pdf)
+-   [2022/23](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers202223/CSU/CSU11026-1.pdf)
+-   [2018/19](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2019/Semester%202%20Papers/CS/CS1026-1.pdf)
+-   [2017/18](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2018/CS/CS1026-1.PDF)
+-   [2016/17](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2017/CS/CS1026-1.PDF)
+-   [2015/16](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2016/CS/CS1026-1.PDF)
+-   [2014/15](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2015/CS/CS1026-1.PDF)
+-   [2013/14](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2014/CS/CS10261.pdf)
+-   [2012/13](https://www.tcd.ie/academicregistry/exams/assets/local/past-papers2013/CS/XCS10231.pdf)
+-   [2011/12](https://www.tcd.ie/Local/Exam_Papers/2012/XC/XCS10231.pdf)
+-   [2010/11](https://www.tcd.ie/Local/Exam_Papers/2011/XC/XCS10231.pdf)
+-   [2009/10](https://www.tcd.ie/Local/Exam_Papers/2010/XC/XCS10231.pdf)
+-   [2008/09](https://www.tcd.ie/Local/Exam_Papers/2009/XC/XCS1BA41.pdf)
+-   [2007/08](https://www.tcd.ie/Local/Exam_Papers/2008/XC/XCS1BA41.pdf)
+-   [2006/07](https://www.tcd.ie/Local/Exam_Papers/2007/XC/XCS1BA41.pdf)
+-   [2005/06](https://www.tcd.ie/Local/Exam_Papers/2006/XC/XCS1BA41.pdf)
 
 ## Questions by Topic
 
